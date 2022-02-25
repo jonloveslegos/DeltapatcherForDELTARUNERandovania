@@ -1,2 +1,6 @@
-.git
 .vs
+.git
+__pycache__
+build
+dist
+DeltapatcherForDeltarando.egg-info
