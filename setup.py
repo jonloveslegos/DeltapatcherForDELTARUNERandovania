@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
-VERSION = '1.0.0' 
+VERSION = '1.0.1' 
 DESCRIPTION = 'DELTARUNE Randovania Patcher'
-LONG_DESCRIPTION = 'The patcher for the DELTARUNE Randovania addition.'
+LONG_DESCRIPTION = 'The patcher for the DELTARUNE Randovania addition. '
 
 # Setting up
 setup(
